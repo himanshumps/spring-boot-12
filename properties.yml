@@ -1,0 +1,5 @@
+APP_NAME: hgtest12
+MS_NAME: spring-boot-12
+BRANCH: master
+GIT_SOURCE_URL: https://github.com/himanshumps/spring-boot-12.git
+SONAR_HOST_URL: http://sonar-hgtest12-cicd.52.172.12.252.nip.io
